@@ -4,6 +4,7 @@ A novel semi-supervised Medical image segmentation method
 ```
 We provided our pre-trained models on the ISIC2017 and ISIC2018 datasets, see './CUM-Net_and_CUT-Net/Checkpoint/';
 ```
+For example, in (ISIC2017(224,224)-train2000-val150-test600), (224,224) represents the image size, 2000 represents the training set size, 150 represents the validation set size, and 600 represents the test set size.
 ```
 We released the codes;
 ```
