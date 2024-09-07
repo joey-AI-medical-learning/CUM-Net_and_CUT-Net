@@ -19,9 +19,13 @@ git clone https://github.com/joey-AI-medical-learning/CUM-Net_and_CUT-Net.git
 2. Put the data in './CUM-Net_and_CUT-Net/input';
 
 3. Train the model;
-
+```
+Please modify train_ISIC.py and parameter_ISIC.py according to different data sets
+```
 4. Test the model;
-
+```
+Please modify test_ISIC.py according to different data sets
+```
 ### Acknowledgements:
 Our code is adapted from [SSL4MIS](https://github.com/HiLab-git/SSL4MIS), [Laplacian-Former](https://github.com/xmindflow/Laplacian-Former) and [VM-Unet](https://github.com/JCruan519/VM-UNet). Thanks for these authors for their valuable works and hope our model can promote the relevant research as well.
 
